@@ -29,9 +29,9 @@ Agora instale o pygame usando o seguinte comando:
 
 Para testar a instalação, execute uma sessão de terminal Python e experimente importar o PyGame.
 
-    ```$ python
-        >>> import pygame
-        >>>```
+    $ python
+    >>> import pygame
+    >>>
 
 Se isso funcionar, a biblioteca foi instalada com sucesso.
 
