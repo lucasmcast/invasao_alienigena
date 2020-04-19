@@ -12,16 +12,16 @@ Esta biblioteca pode ser instalada com o comando a seguir:
 
 ### Linux:
 
-```sudo apt-get install python-pygame```
+```$ sudo apt-get install python-pygame```
 
 No linux, o pygame depende de algumas bibliotecas para o jogo funcionar corretamente:
 
-```sudo apt-get install python-dev mercurial```
-```sudo apt-get install libsdl-image1.2-dev libsdl2-dev libsdl-ttf2.0-dev```
+```$ sudo apt-get install python-dev mercurial```
+```$ sudo apt-get install libsdl-image1.2-dev libsdl2-dev libsdl-ttf2.0-dev```
 
 Agora instale o pygame usando o seguinte comando:
 
-```pip install --user hg+http://bitbucket.org/pygame/pygame```
+```$ pip install --user hg+http://bitbucket.org/pygame/pygame```
 
 ### Windows:
 
@@ -34,6 +34,16 @@ Para testar a instalação, execute uma sessão de terminal Python e experimente
     >>>
 
 Se isso funcionar, a biblioteca foi instalada com sucesso.
+
+Logo após ter instalado a biblioteca devemos clonar este repositório:
+
+```$git clone https://github.com/lucasmcast/invasao_alienigena.git```
+
+Para jogar, basta direcionar para a pasta do repositório clonado e executar o módulo alien_invasion.py:
+
+    $ cd invasão_alienigena
+    $ python alien_invasion.py
+
 
 
 
