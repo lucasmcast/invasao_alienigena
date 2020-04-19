@@ -1,6 +1,6 @@
 # Game Invasão Alienígena
 
-    Jogo de plataforma tem como objetivo não deixar as espaçonaves chegarem ao inferior da tela ou colidir com a nave procipal. Conforme o jogador vai destruindo todas as espaçonaves alienígenas, a mudança de level ocorre, aumentando assim a velocidade do jogo a cada level. O Jogo possui por padrão 3 vidas, que são indicadas no canto superior esquerdo. No canto superior direito, tem as indicações de pontuação e level que o jogador está no momento, e no centro da tela é sua melhor pontuação.
+Jogo de plataforma tem como objetivo não deixar as espaçonaves chegarem ao inferior da tela ou colidir com a nave procipal. Conforme o jogador vai destruindo todas as espaçonaves alienígenas, a mudança de level ocorre, aumentando assim a velocidade do jogo a cada level. O Jogo possui por padrão 3 vidas, que são indicadas no canto superior esquerdo. No canto superior direito, tem as indicações de pontuação e level que o jogador está no momento, e no centro da tela é sua melhor pontuação.
 
 ## Instalação
 
@@ -29,9 +29,9 @@ Agora instale o pygame usando o seguinte comando:
 
 Para testar a instalação, execute uma sessão de terminal Python e experimente importar o PyGame.
 
-```$ python```
-```>>> import pygame```
-```>>>```
+    ```$ python
+        >>> import pygame
+        >>>```
 
 Se isso funcionar, a biblioteca foi instalada com sucesso.
 
